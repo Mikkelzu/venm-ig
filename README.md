@@ -8,23 +8,38 @@ Most code is similar, however anything after part 6 or there abouts is mostly mi
 
 # Functionality:
 Login
+
 Register
+
 Logout (lol)
+
 Search Users
+
 Go to Searched User profile
+
 Edit profile (Just not password yet, the before event doesnt trigger right)
+
 Add a new post.
+
+
 
 # Todo/Incoming:
 Follow users
+
 Unfollow users
+
 DM's
+
 Like/Comment on posts
+
 Notification on Like/Comment/Follow
+
 
 # Less important todo:
 Update profile with picture
+
 Video
+
 And some more but I'm too lazy to think about what to add.
 
 
