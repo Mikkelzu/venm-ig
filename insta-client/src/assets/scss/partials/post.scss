@@ -1,0 +1,44 @@
+.post {
+    background: #FFF;
+    padding-top:5px;
+    padding-bottom: 15px;
+
+    .post-user {
+        display:flex;
+        align-items: center;
+        height:30px;
+        margin-left: 25px;
+        margin-bottom:10px;
+        .profile-picture {
+            border-radius: 50%;
+        }
+        span {
+            margin-left: 15px;
+            position: relative;
+            text-transform: uppercase;
+        }
+    }
+
+    .post-picture {
+        .post-image {
+            width:100%;
+        }
+    }
+
+    .post-description {
+        padding-left: 15px;
+        .description {
+            font-size:14px;
+            strong {
+                text-transform: uppercase;
+            }
+            span {
+                color: black;
+            }
+        }
+        .timestamp {
+            font-size:12px;
+            color: #9b9b9b;
+        }
+    }
+}

@@ -1,0 +1,31 @@
+.header {
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    width:100vw;
+    height:40px;
+    background-color: #EEE;
+    border-bottom: 1px solid #ccc;
+    z-index:9999;
+    .title {
+        color:#35495e;
+        font-size: 28px;
+        text-align: center;
+        font-weight: 900;
+        margin:0;
+        padding:0;
+        line-height: 40px;
+
+        span {
+            font-weight: 300;
+            color: #42b883;
+        }
+    }
+
+    .logout-btn {
+        position: absolute;
+        top: 7px;
+        right: 30px;
+    }
+}
